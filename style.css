@@ -576,6 +576,7 @@ header {
 .highlight {
     display: flex;
     align-items: center;
+    justify-content: center;
     padding: 2em 0;
     border-top: var(--separators);
 }

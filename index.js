@@ -137,7 +137,7 @@ export function addComment(e){
   let postComment = commentInputs[postDataId].value;
   console.log(postComment);
   let post ={};
-  post.commentFirst = 'olive';
+  post.commentFirst = 'Olivier Gomez';
   post.commentContent = postComment;
   console.log(post);
   //Push the object in the post array
