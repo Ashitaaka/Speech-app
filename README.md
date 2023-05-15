@@ -2,6 +2,7 @@
 'Speech' is my first school project, a small social network done in Javascript Vanilla.
 The challenge was to split the app in différent javascript files and create relations between them.
 I've also done the design.
+Video link : https://tinyurl.com/Speech-RS
 
 Langages : Javascript / CSS / HTML
 
